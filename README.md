@@ -1,3 +1,3 @@
 # JS-Invitation
 
-A simple list were you cand add, remove, or change your invited friends
+A simple list were you can add, remove, or change your invited friends
